@@ -1,7 +1,7 @@
 # Hi there, I'm Abdullah Saif 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=AI+and+Machine+Learning+Developer;Deep+Learning+Enthusiast;Full-Stack+Developer+(.NET+%26+Angular)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=600&lines=Advanced+AI+%26+RAG+Developer;Deep+Learning+Enthusiast;Full-Stack+Developer+(.NET+%26+Angular)" alt="Typing SVG" />
 </div>
 
 ### 🚀 About Me:
@@ -15,11 +15,12 @@
 
 ### 📂 Featured AI Projects:
 
-> **[Deep Learning Portfolio](https://github.com/AbdullahSaif-194/Deep-Learning-Portfolio)**
-> A comprehensive collection of 6 advanced deep learning architectures developed during my AI Advanced Course.
+> **[Deep Learning & RAG Portfolio](https://github.com/AbdullahSaif-194/Deep-Learning-Portfolio)**
+> A comprehensive collection of AI systems, including modern Generative AI and deep learning architectures.
+> * 🤖 **Advanced RAG:** Retrieval-Augmented Generation using LangChain and Qdrant.
 > * 🖼️ **CNNs:** Image classification using Convolutional Neural Networks (CNN1).
-> * 🤖 **ANNs:** Artificial Neural Networks (ANN1 & ANN2CIFAR) for complex pattern recognition.
-> * 🔄 **Autoencoders:** Simple and Convolutional Autoencoders for dimensionality reduction.
+> * 🧠 **ANNs:** Pattern recognition for tabular and image (CIFAR-10) data.
+> * 🔄 **Autoencoders:** Simple and Convolutional models for data compression.
 > * 📊 **ML Fundamentals:** Titanic Classification and Regression analysis.
 
 ---
